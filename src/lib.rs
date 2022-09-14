@@ -1,6 +1,5 @@
 //! Bindings to the Windows SChannel APIs.
 #![cfg(windows)]
-#![warn(missing_docs)]
 #![allow(non_upper_case_globals)]
 
 #[macro_use]
